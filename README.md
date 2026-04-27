@@ -1,3 +1,5 @@
+[![Stars](https://img.shields.io/github/stars/RanaAhmar/awesome-remote-jobs?style=for-the-badge)](https://github.com/RanaAhmar/awesome-remote-jobs/stargazers) [![Issues](https://img.shields.io/github/issues/RanaAhmar/awesome-remote-jobs?style=for-the-badge)](https://github.com/RanaAhmar/awesome-remote-jobs/issues) [![MIT License](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://github.com/RanaAhmar/awesome-remote-jobs/blob/main/LICENSE)
+
 # awesome-remote-jobs
 
 Curated list of high-quality sources and tips for remote engineering roles.
@@ -37,6 +39,18 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **GitHub:** [@RanaAhmar](https://github.com/RanaAhmar)
 
 ---
+
+
+---
+### 🌟 Part of the [Stackaura](https://github.com/RanaAhmar) Ecosystem
+*Empowering developers with automated tools and high-performance solutions.*
+
+**Explore more:**
+- 🚀 [All Projects](https://github.com/RanaAhmar?tab=repositories)
+- 🛠️ [Daily Coding Tips](https://github.com/RanaAhmar/daily-coding-tips)
+- 📊 [Profile Dashboard](https://github.com/RanaAhmar/RanaAhmar)
+
+*If you find this project useful, please consider giving it a star! ⭐*
 
 
 ---
